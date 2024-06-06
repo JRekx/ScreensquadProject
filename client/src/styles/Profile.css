@@ -1,0 +1,14 @@
+.profile {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .profile-details {
+    margin-top: 20px;
+  }
+  
+  .profile-details p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  

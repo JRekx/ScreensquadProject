@@ -1,0 +1,25 @@
+/* src/css/Home.css */
+
+.movie-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  
+  .movie-item {
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .movie-item img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .trailer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  

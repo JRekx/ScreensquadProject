@@ -1,0 +1,15 @@
+/* src/css/dashboard.css */
+.favorites-section {
+    margin-top: 20px;
+  }
+  
+  .favorites-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .favorite-item {
+    width: 200px;
+  }
+  
